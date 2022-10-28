@@ -1,4 +1,4 @@
-from logging.logging import Logging
+from loggings.logging import Logging
 from sensors.base_sensor import BaseSensor
 from service.repository.repository import Repository
 from utils.network import Network
@@ -6,5 +6,6 @@ from utils.network import Network
 if __name__ == '__main__':
     repository = Repository()
     network = Network()
-    sensors = BaseSensor(network)
-    logging = Logging(repository, network)
+    sensors = BaseSensor(network,3)
+    logging = Logging(repository, network, sensors)
+    logging.run()
