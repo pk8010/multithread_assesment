@@ -1,58 +1,190 @@
-id,excuse,category,value,timestamp
-414,I really don't feel like seeing anyone today. Maybe next time.,party,15,2022-10-28T16:03:13.480566
-202,My boss was really in a bad mood today.,children,54,2022-10-28T16:03:13.518670
-715,"It must be a hardware issue, not my code problem.",developers,-95,2022-10-28T16:03:13.509672
-515,My trimmer stopped working yesterday and yesterday It was Monday.,funny,54,2022-10-28T16:03:19.055003
-707,"HR asked me why you are late, I told her that I'm an ID.",developers,21,2022-10-28T16:03:19.062021
-205,My best friend fell down to the stairs so I had to take him to the hospital.,children,-81,2022-10-28T16:03:19.046860
-306,"Due to heavy rain, the roads around my area were closed.",college,46,2022-10-28T16:03:24.689056
-410,"That was today? I'm very sorry guys, but I promised my wife that we'd do a date night tonight.",party,46,2022-10-28T16:03:24.680934
-14,"I was about to drive out, but I realized that I have a flat tire.",family,-73,2022-10-28T16:03:24.653956
-110,Traffic stopped because of a broken truck.,office,31,2022-10-28T16:03:30.268284
-11,I have work early tomorrow.,family,16,2022-10-28T16:03:30.305463
-202,My boss was really in a bad mood today.,children,94,2022-10-28T16:03:30.296466
-608,I've got a gallstone and am trying to heal it holistically.,unbelievable,-64,2022-10-28T16:03:35.924086
-607,I was taking my blood pressure with the machine at the grocery store and got stuck and couldn't get out.,unbelievable,73,2022-10-28T16:03:35.912564
-16,It’s raining cats and dogs out here. I don’t think it’s a good idea to drive in this weather.,family,86,2022-10-28T16:03:35.874982
-715,"It must be a hardware issue, not my code problem.",developers,-89,2022-10-28T16:03:41.432240
-504,The alarm betrayed me today.,funny,-5,2022-10-28T16:03:41.435281
-122,My car's battery has unfortunately died and I am stranded at home.,office,-67,2022-10-28T16:03:41.477479
-701,"There is a bug in this code, but I don't know which bug I'm talking about.",developers,40,2022-10-28T16:03:47.199593
-819,Im playing without sound,gaming,98,2022-10-28T16:03:47.187434
-207,My temperature is really high today.,children,-28,2022-10-28T16:03:47.174439
-402,"I have the worst migraine. Yeah, I don't think that I'll be able to make it to your party tonight.",party,24,2022-10-28T16:03:52.859018
-114,My specs broke and I cannot see a thing.,office,81,2022-10-28T16:03:52.866365
-204,Mom just called me saying that I need to get to supermarket for a shopping trip.,children,72,2022-10-28T16:03:52.942379
-607,I was taking my blood pressure with the machine at the grocery store and got stuck and couldn't get out.,unbelievable,-18,2022-10-28T16:03:58.620356
-13,Don’t bet on seeing me at the party later. I’ve been throwing up all morning.,family,-96,2022-10-28T16:03:58.595920
-307,A big theft happened in my house. Gotta look after my stuff.,college,-93,2022-10-28T16:03:58.606166
-608,I've got a gallstone and am trying to heal it holistically.,unbelievable,-29,2022-10-28T16:04:04.278709
-503,I heard there will be a thunderstorm today.,funny,-65,2022-10-28T16:04:04.276711
-814,"I had a smoke grenade, couldt see anything",gaming,-3,2022-10-28T16:04:04.274184
-411,"I'm rushing something before midnight, it will affect my grades.",party,41,2022-10-28T16:04:09.875905
-18,My cab firm said there won’t be any availability for an hour. ,family,92,2022-10-28T16:04:09.860332
-712,"My wifi wasn't working, so I went to find a hot-spot i.e Sun",developers,10,2022-10-28T16:04:09.887287
-404,My friend's parents are going to be out of town for a week. I'm going to have to take him to the hospital.,party,50,2022-10-28T16:04:15.579568
-816,I ran out of bullets,gaming,-60,2022-10-28T16:04:15.585733
-102,I had to take care of my dog because he is sick.,office,14,2022-10-28T16:04:15.565703
-303,I think due to parting last night I got suffered from food posioning.,college,74,2022-10-28T16:04:21.225998
-811,This game sound is so bad that I didnt hear they comming,gaming,-71,2022-10-28T16:04:21.251745
-811,This game sound is so bad that I didnt hear they comming,gaming,13,2022-10-28T16:04:21.238855
-415,I just got grounded by my parents. Sorry guys.,party,29,2022-10-28T16:04:27.111331
-201,I have a really important work assignment.,children,-83,2022-10-28T16:04:27.126932
-512,"The left signal of my car was not working, so I only took right to reach to the office.",funny,21,2022-10-28T16:04:27.117529
-805,I was talking to my mom,gaming,-91,2022-10-28T16:04:32.717257
-514,I saw many strangers following my car so I took the longest route possible to reach today.,funny,-71,2022-10-28T16:04:32.739094
-814,"I had a smoke grenade, couldt see anything",gaming,-67,2022-10-28T16:04:32.732174
-818,My headphones turned off,gaming,-77,2022-10-28T16:04:38.377940
-7,My best friend got in an accident and I had to take his place.,family,3,2022-10-28T16:04:38.389230
-15,My baby sitter canceled on me at the very last minute,family,-64,2022-10-28T16:04:38.371854
-202,My boss was really in a bad mood today.,children,20,2022-10-28T16:04:44.027965
-201,I have a really important work assignment.,children,39,2022-10-28T16:04:44.017892
-706,"When someone asked me about my blood group, I told him that I'm a code blooded person.",developers,53,2022-10-28T16:04:44.035754
-607,I was taking my blood pressure with the machine at the grocery store and got stuck and couldn't get out.,unbelievable,-71,2022-10-28T16:04:49.541626
-306,"Due to heavy rain, the roads around my area were closed.",college,18,2022-10-28T16:04:49.575745
-210,Doctor told me that I have a big worm in my stomach.,children,77,2022-10-28T16:04:49.574746
-511,I was riding my solar power scooter and suddenly it started raining and my scooter stopped working.,funny,68,2022-10-28T16:04:55.189467
-505,I was passing by a school lane so I was driving slow.,funny,-67,2022-10-28T16:04:55.191466
-709,I got cursed because someone reviewed my code.,developers,40,2022-10-28T16:04:55.196179
+activity,type,participants,price,link,key,accessibility,value,timestamp
+Write a list of things you are grateful for,relaxation,1,0.0,,2062010,0.0,61,2022-10-29T21:01:35.338472
+Mow your lawn,busywork,1,0.1,,3590127,0.3,-28,2022-10-29T21:01:35.268903
+Make a scrapbook with pictures of your favorite memories,diy,1,0.1,,5554174,0.1,50,2022-10-29T21:01:35.251262
+Bake a pie with some friends,cooking,3,0.3,,3141592,0.3,-90,2022-10-29T21:01:35.292108
+Learn the Chinese erhu,music,1,0.6,,2742452,0.4,-55,2022-10-29T21:01:35.338472
+Go see a movie in theaters with a few friends,social,4,0.2,,5262759,0.3,63,2022-10-29T21:01:35.327548
+Volunteer and help out at a senior center,charity,1,0.0,,3920096,0.1,85,2022-10-29T21:01:35.292108
+Clean out your car,busywork,1,0.0,,2896176,0.08,1,2022-10-29T21:01:35.277966
+Make a to-do list for your week,busywork,1,0.0,,5920481,0.05,14,2022-10-29T21:01:35.327548
+Start a book you've never gotten around to reading,relaxation,1,0.1,,7114122,0.1,-98,2022-10-29T21:01:40.732109
+Rearrange and organize your room,busywork,1,0.0,,6197243,0.15,-26,2022-10-29T21:01:40.750155
+Go on a long drive with no music,relaxation,1,0.1,,4290333,0.2,-79,2022-10-29T21:01:40.758383
+Wash your car,busywork,1,0.05,,1017771,0.15,6,2022-10-29T21:01:40.778238
+Volunteer at a local animal shelter,charity,1,0.1,,1382389,0.5,2,2022-10-29T21:01:40.778238
+Find a DIY to do,diy,1,0.4,,4981819,0.3,38,2022-10-29T21:01:40.778238
+Pick up litter around your favorite park,charity,1,0.0,,4894697,0.05,-34,2022-10-29T21:01:40.796154
+Make a bucket list,busywork,1,0.0,,2735499,0.0,70,2022-10-29T21:01:40.806594
+Organize your dresser,busywork,1,0.0,,7556665,1.0,1,2022-10-29T21:01:40.816299
+Listen to your favorite album,music,1,0.08,,3136729,0.2,-98,2022-10-29T21:01:46.217226
+Start a webinar on a topic of your choice,education,1,0.0,,6826029,0.9,14,2022-10-29T21:01:46.241618
+Make homemade ice cream,cooking,1,0.2,,3818400,0.2,82,2022-10-29T21:01:46.279552
+Take a nap,relaxation,1,0.0,,6184514,0.0,87,2022-10-29T21:01:46.241618
+Cook something together with someone,cooking,2,0.3,,1799120,0.8,-66,2022-10-29T21:01:46.284571
+Take your cat on a walk,relaxation,1,0.02,,5940465,0.1,-95,2022-10-29T21:01:46.302885
+Have a bonfire with your close friends,social,4,0.1,,8442249,0.1,66,2022-10-29T21:01:46.241618
+Take a hike at a local park,recreational,1,0.0,,8724324,0.1,51,2022-10-29T21:01:46.269002
+Make a scrapbook with pictures of your favorite memories,diy,1,0.1,,5554174,0.1,-45,2022-10-29T21:01:46.284571
+Donate blood at a local blood center,charity,1,0.0,https://www.redcross.org/give-blood,6509779,0.35,64,2022-10-29T21:01:51.872855
+Draw something interesting,recreational,1,0.0,,8033599,0.0,-62,2022-10-29T21:01:51.788172
+Explore a park you have never been to before,recreational,1,0.0,,8159356,0.0,39,2022-10-29T21:01:51.895680
+Create a compost pile,diy,1,0.0,,8631548,0.15,90,2022-10-29T21:01:51.886230
+Write a poem,recreational,1,0.0,,8688620,0.0,-14,2022-10-29T21:01:51.841834
+Cook something together with someone,cooking,2,0.3,,1799120,0.8,-94,2022-10-29T21:01:51.849015
+Learn Morse code,education,1,0.0,https://en.wikipedia.org/wiki/Morse_code,3646173,0.0,-19,2022-10-29T21:01:51.856979
+Visit a nearby museum,recreational,1,0.2,,5490351,0.7,-53,2022-10-29T21:01:51.864242
+Catch up with a friend over a lunch date,social,2,0.2,,5590133,0.15,68,2022-10-29T21:01:51.879922
+Start a daily journal,relaxation,1,0.0,,8779876,0.0,58,2022-10-29T21:01:57.441803
+Make bread from scratch,cooking,1,0.2,,4809815,0.2,-76,2022-10-29T21:01:57.436506
+Bake something you've never tried before,cooking,1,0.4,,5665663,0.3,42,2022-10-29T21:01:57.372957
+Make a couch fort,recreational,1,0.0,,2352669,0.08,92,2022-10-29T21:01:57.347994
+Wash your car,busywork,1,0.05,,1017771,0.15,23,2022-10-29T21:01:57.404978
+Buy a new house decoration,recreational,1,0.4,,3456114,0.3,87,2022-10-29T21:01:57.381281
+Plant a tree,recreational,1,0.3,,1942393,0.3,20,2022-10-29T21:01:57.424042
+Write a thank you letter to an influential person in your life,social,1,0.0,,4101229,0.1,81,2022-10-29T21:01:57.445680
+Meditate for five minutes,relaxation,1,0.0,,3699502,0.05,-59,2022-10-29T21:01:57.424042
+Bake a pie with some friends,cooking,3,0.3,,3141592,0.3,2,2022-10-29T21:02:03.295642
+Have a jam session with your friends,music,5,0.1,,2715253,0.3,-88,2022-10-29T21:02:03.348585
+Listen to a new music genre,music,1,0.0,,4708863,0.0,-9,2022-10-29T21:02:03.452126
+Volunteer at a local animal shelter,charity,1,0.1,,1382389,0.5,-18,2022-10-29T21:02:03.564006
+Take a class at your local community center that interests you,education,1,0.0,,8750692,0.15,53,2022-10-29T21:02:03.586345
+Learn a new recipe,cooking,1,0.0,,6553978,0.05,39,2022-10-29T21:02:03.607736
+Learn Morse code,education,1,0.0,https://en.wikipedia.org/wiki/Morse_code,3646173,0.0,-65,2022-10-29T21:02:03.636158
+Pull a harmless prank on one of your friends,social,1,0.1,,1288934,0.2,-74,2022-10-29T21:02:03.652411
+Volunteer at a local animal shelter,charity,1,0.1,,1382389,0.5,41,2022-10-29T21:02:03.669343
+Watch a Khan Academy lecture on a subject of your choosing,education,1,0.0,https://www.khanacademy.org/,7154873,0.0,-20,2022-10-29T21:02:09.065970
+Learn a new programming language,education,1,0.1,,5881028,0.25,-58,2022-10-29T21:02:09.106264
+Text a friend you haven't talked to in a long time,social,2,0.05,,6081071,0.2,77,2022-10-29T21:02:09.091945
+Make a simple musical instrument,music,1,0.4,,7091374,0.25,44,2022-10-29T21:02:09.082298
+Have a jam session with your friends,music,5,0.1,,2715253,0.3,45,2022-10-29T21:02:09.065970
+Fill out a basketball bracket,recreational,1,0.0,,7806284,0.1,-34,2022-10-29T21:02:09.120803
+Do something you used to do as a kid,relaxation,1,0.1,,8827573,0.8,-95,2022-10-29T21:02:09.126928
+Listen to music you haven't heard in a while,music,1,0.05,,4296813,0.9,32,2022-10-29T21:02:09.109298
+Learn the Chinese erhu,music,1,0.6,,2742452,0.4,78,2022-10-29T21:02:09.143461
+Prepare a 72-hour kit,busywork,1,0.5,https://www.ready.gov/kit,4266522,0.5,75,2022-10-29T21:02:14.688914
+Make a scrapbook with pictures of your favorite memories,diy,1,0.1,,5554174,0.1,-26,2022-10-29T21:02:14.697492
+Visit a nearby museum,recreational,1,0.2,,5490351,0.7,13,2022-10-29T21:02:14.604315
+Take a nap,relaxation,1,0.0,,6184514,0.0,-62,2022-10-29T21:02:14.617579
+Practice coding in your favorite lanaguage,recreational,1,0.0,,7096020,0.1,33,2022-10-29T21:02:14.661378
+Listen to your favorite album,music,1,0.08,,3136729,0.2,-18,2022-10-29T21:02:14.621903
+Mow your neighbor's lawn,charity,1,0.0,,1303906,0.2,97,2022-10-29T21:02:14.644646
+Learn how to make a website,education,1,0.1,,9924423,0.3,54,2022-10-29T21:02:14.679687
+Write a poem,recreational,1,0.0,,8688620,0.0,76,2022-10-29T21:02:14.697492
+Create a compost pile,diy,1,0.0,,8631548,0.15,27,2022-10-29T21:02:20.441954
+Bake a pie with some friends,cooking,3,0.3,,3141592,0.3,-75,2022-10-29T21:02:20.416069
+Have a bonfire with your close friends,social,4,0.1,,8442249,0.1,35,2022-10-29T21:02:20.434253
+Draw something interesting,recreational,1,0.0,,8033599,0.0,-16,2022-10-29T21:02:20.425360
+Learn woodworking,diy,1,0.3,,9216391,0.3,75,2022-10-29T21:02:20.452393
+Learn a new recipe,cooking,1,0.0,,6553978,0.05,96,2022-10-29T21:02:21.171049
+Listen to your favorite album,music,1,0.08,,3136729,0.2,73,2022-10-29T21:02:20.551829
+Resolve a problem you've been putting off,busywork,1,0.0,,9999999,0.0,-19,2022-10-29T21:02:20.545551
+Listen to music you haven't heard in a while,music,1,0.05,,4296813,0.9,-48,2022-10-29T21:02:20.531657
+Find a charity and donate to it,charity,1,0.4,,1488053,0.1,96,2022-10-29T21:02:26.579317
+Make tie dye shirts,diy,1,0.2,,8092359,0.2,-57,2022-10-29T21:02:26.590358
+Learn Morse code,education,1,0.0,https://en.wikipedia.org/wiki/Morse_code,3646173,0.0,40,2022-10-29T21:02:26.596763
+Bake pastries for you and your neighbor,cooking,1,0.4,,8125168,0.3,16,2022-10-29T21:02:26.634471
+Make homemade ice cream,cooking,1,0.2,,3818400,0.2,14,2022-10-29T21:02:26.629560
+Start a garden,recreational,1,0.3,,1934228,0.35,-53,2022-10-29T21:02:26.650452
+Start a blog for something you're passionate about,recreational,1,0.05,,8364626,0.1,-38,2022-10-29T21:02:26.660249
+Take a class at your local community center that interests you,education,1,0.0,,8750692,0.15,18,2022-10-29T21:02:26.670613
+Configure two-factor authentication on your accounts,busywork,1,0.0,https://en.wikipedia.org/wiki/Multi-factor_authentication,1572120,0.0,42,2022-10-29T21:02:26.801872
+Create a cookbook with your favorite recipes,cooking,1,0.0,,1947449,0.05,-3,2022-10-29T21:02:32.385434
+Organize a bookshelf,busywork,1,0.0,,6098037,0.0,67,2022-10-29T21:02:32.379278
+Study a foreign language,education,1,0.0,,9765530,0.1,93,2022-10-29T21:02:32.332033
+Clean out your closet and donate the clothes you've outgrown,charity,1,0.0,,9026787,0.1,-15,2022-10-29T21:02:32.336627
+Clean out your car,busywork,1,0.0,,2896176,0.08,47,2022-10-29T21:02:32.397547
+Learn a new recipe,cooking,1,0.0,,6553978,0.05,90,2022-10-29T21:02:32.353129
+Do a jigsaw puzzle,recreational,1,0.1,https://en.wikipedia.org/wiki/Jigsaw_puzzle,8550768,1.0,38,2022-10-29T21:02:32.397547
+Donate to your local food bank,charity,1,0.5,,4150284,0.8,-19,2022-10-29T21:02:32.359690
+Donate blood at a local blood center,charity,1,0.0,https://www.redcross.org/give-blood,6509779,0.35,6,2022-10-29T21:02:32.390255
+Write a song,music,1,0.0,,5188388,0.0,-25,2022-10-29T21:02:37.929801
+Take a bubble bath,relaxation,1,0.15,,2581372,0.1,55,2022-10-29T21:02:37.930799
+Create a compost pile,diy,1,0.0,,8631548,0.15,69,2022-10-29T21:02:37.862108
+Teach your dog a new trick,relaxation,1,0.05,,1668223,0.15,19,2022-10-29T21:02:37.875451
+Memorize the fifty states and their capitals,education,1,0.0,,4179309,0.0,0,2022-10-29T21:02:37.855911
+Mow your lawn,busywork,1,0.1,,3590127,0.3,-75,2022-10-29T21:02:37.880781
+Make a scrapbook with pictures of your favorite memories,diy,1,0.1,,5554174,0.1,-22,2022-10-29T21:02:37.896053
+Write a song,music,1,0.0,,5188388,0.0,-14,2022-10-29T21:02:37.912548
+Clean out your garage,busywork,1,0.0,,7023703,0.1,75,2022-10-29T21:02:37.916050
+Write a song,music,1,0.0,,5188388,0.0,18,2022-10-29T21:02:43.443238
+Find a charity and donate to it,charity,1,0.4,,1488053,0.1,7,2022-10-29T21:02:43.380078
+Explore a park you have never been to before,recreational,1,0.0,,8159356,0.0,95,2022-10-29T21:02:43.452507
+Make a scrapbook with pictures of your favorite memories,diy,1,0.1,,5554174,0.1,-2,2022-10-29T21:02:43.403327
+Contribute code or a monetary donation to an open-source software project,charity,1,0.1,https://github.com/explore,7687030,0.0,53,2022-10-29T21:02:43.410467
+Take a hike at a local park,recreational,1,0.0,,8724324,0.1,45,2022-10-29T21:02:43.375931
+Learn how to whistle with your fingers,education,1,0.0,,2790297,0.0,46,2022-10-29T21:02:43.483814
+Find a DIY to do,diy,1,0.4,,4981819,0.3,84,2022-10-29T21:02:43.441128
+Play a volleyball match with some friends,social,4,0.0,,4306710,0.3,-68,2022-10-29T21:02:43.457744
+Memorize the fifty states and their capitals,education,1,0.0,,4179309,0.0,-59,2022-10-29T21:02:49.060795
+Sit in the dark and listen to your favorite music with no distractions,relaxation,1,0.0,,9908721,1.0,72,2022-10-29T21:02:49.136252
+Organize a bookshelf,busywork,1,0.0,,6098037,0.0,-33,2022-10-29T21:02:49.120612
+Learn how to make a website,education,1,0.1,,9924423,0.3,45,2022-10-29T21:02:49.120612
+Compliment someone,social,2,0.0,,9149470,0.0,-15,2022-10-29T21:02:49.120612
+Rearrange and organize your room,busywork,1,0.0,,6197243,0.15,64,2022-10-29T21:02:49.120612
+Create a meal plan for the coming week,cooking,1,0.0,,3491470,0.0,-17,2022-10-29T21:02:49.093769
+Fix something that's broken in your house,diy,1,0.1,,6925988,0.3,-31,2022-10-29T21:02:49.101091
+Catch up with a friend over a lunch date,social,2,0.2,,5590133,0.15,99,2022-10-29T21:02:49.101091
+Create and follow a savings plan,busywork,1,0.0,,9366464,0.2,5,2022-10-29T21:02:54.712611
+Create a compost pile,diy,1,0.0,,8631548,0.15,52,2022-10-29T21:02:54.710495
+Prepare a dish from a foreign culture,cooking,1,0.2,,8061754,0.3,82,2022-10-29T21:02:54.732965
+Start a webinar on a topic of your choice,education,1,0.0,,6826029,0.9,92,2022-10-29T21:02:54.726177
+Research a topic you're interested in,education,1,0.0,,3561421,0.9,17,2022-10-29T21:02:54.697678
+Take a class at your local community center that interests you,education,1,0.0,,8750692,0.15,-66,2022-10-29T21:02:54.732965
+Make tie dye shirts,diy,1,0.2,,8092359,0.2,-33,2022-10-29T21:02:54.702107
+Write a note of appreciation to someone,social,1,0.0,,1770521,0.0,-95,2022-10-29T21:02:54.675264
+Have a jam session with your friends,music,5,0.1,,2715253,0.3,25,2022-10-29T21:02:54.670113
+Take a bubble bath,relaxation,1,0.15,,2581372,0.1,-7,2022-10-29T21:03:00.386011
+Pick up litter around your favorite park,charity,1,0.0,,4894697,0.05,8,2022-10-29T21:03:00.374811
+Have a picnic with some friends,social,3,0.1,,6813070,0.1,5,2022-10-29T21:03:00.405074
+Donate to your local food bank,charity,1,0.5,,4150284,0.8,95,2022-10-29T21:03:00.369133
+Clean out your refrigerator,busywork,1,0.0,,9324336,0.0,77,2022-10-29T21:03:00.302666
+Have a paper airplane contest with some friends,social,4,0.02,,8557562,0.05,-97,2022-10-29T21:03:00.302666
+Take your cat on a walk,relaxation,1,0.02,,5940465,0.1,32,2022-10-29T21:03:00.353111
+Play a video game,recreational,1,0.0,,5534113,0.0,40,2022-10-29T21:03:00.391017
+Shop at support your local farmers market,relaxation,1,0.2,,8979931,0.1,-16,2022-10-29T21:03:00.353111
+Bake pastries for you and your neighbor,cooking,1,0.4,,8125168,0.3,35,2022-10-29T21:03:05.856707
+Make tie dye shirts,diy,1,0.2,,8092359,0.2,31,2022-10-29T21:03:05.859945
+Go to an escape room,social,4,0.5,,5585829,0.3,-86,2022-10-29T21:03:05.879091
+Go to a concert with local artists with some friends,social,3,0.4,,2211716,0.3,-48,2022-10-29T21:03:05.889416
+Hold a video game tournament with some friends,social,4,0.0,,2300257,0.1,-89,2022-10-29T21:03:05.915250
+Take a spontaneous road trip with some friends,social,4,0.2,,2085321,0.3,-12,2022-10-29T21:03:05.949101
+Listen to music you haven't heard in a while,music,1,0.05,,4296813,0.9,67,2022-10-29T21:03:05.917455
+Uninstall unused apps from your devices,busywork,1,0.0,,2850593,0.0,-20,2022-10-29T21:03:05.950553
+Uninstall unused apps from your devices,busywork,1,0.0,,2850593,0.0,5,2022-10-29T21:03:05.966216
+Clean out your closet and donate the clothes you've outgrown,charity,1,0.0,,9026787,0.1,-81,2022-10-29T21:03:11.774277
+Make homemade ice cream,cooking,1,0.2,,3818400,0.2,14,2022-10-29T21:03:11.910873
+Bake pastries for you and your neighbor,cooking,1,0.4,,8125168,0.3,-52,2022-10-29T21:03:11.901627
+Play a volleyball match with some friends,social,4,0.0,,4306710,0.3,43,2022-10-29T21:03:11.904839
+Plan a trip to another country,recreational,1,0.0,,5554727,0.0,34,2022-10-29T21:03:11.895319
+Listen to your favorite album,music,1,0.08,,3136729,0.2,54,2022-10-29T21:03:11.976065
+Uninstall unused apps from your devices,busywork,1,0.0,,2850593,0.0,-24,2022-10-29T21:03:11.988981
+Bake something you've never tried before,cooking,1,0.4,,5665663,0.3,-25,2022-10-29T21:03:11.898314
+Find a DIY to do,diy,1,0.4,,4981819,0.3,25,2022-10-29T21:03:11.913873
+Read a formal research paper on an interesting subject,education,1,0.0,,3352474,0.1,9,2022-10-29T21:03:17.971629
+Organize your movie collection,busywork,1,0.0,,6378359,0.0,-33,2022-10-29T21:03:17.963269
+Have a photo session with some friends,social,4,0.05,,3305912,0.8,-81,2022-10-29T21:03:17.987436
+Take your dog on a walk,relaxation,1,0.0,,9318514,0.2,-43,2022-10-29T21:03:17.991729
+Play a volleyball match with some friends,social,4,0.0,,4306710,0.3,15,2022-10-29T21:03:17.975344
+Go on a long drive with no music,relaxation,1,0.1,,4290333,0.2,-52,2022-10-29T21:03:17.968308
+Make homemade ice cream,cooking,1,0.2,,3818400,0.2,32,2022-10-29T21:03:17.898887
+Bake pastries for you and your neighbor,cooking,1,0.4,,8125168,0.3,10,2022-10-29T21:03:17.966312
+Improve your touch typing,busywork,1,0.0,https://en.wikipedia.org/wiki/Touch_typing,2526437,0.8,55,2022-10-29T21:03:17.887160
+Research a topic you're interested in,education,1,0.0,,3561421,0.9,34,2022-10-29T21:03:23.588820
+Find a DIY to do,diy,1,0.4,,4981819,0.3,35,2022-10-29T21:03:23.597620
+Learn woodworking,diy,1,0.3,,9216391,0.3,94,2022-10-29T21:03:23.607858
+Wash your car,busywork,1,0.05,,1017771,0.15,78,2022-10-29T21:03:23.611379
+Write a list of things you are grateful for,relaxation,1,0.0,,2062010,0.0,19,2022-10-29T21:03:23.527743
+Catch up with a friend over a lunch date,social,2,0.2,,5590133,0.15,-49,2022-10-29T21:03:23.538414
+Configure two-factor authentication on your accounts,busywork,1,0.0,https://en.wikipedia.org/wiki/Multi-factor_authentication,1572120,0.0,99,2022-10-29T21:03:23.550028
+Make bread from scratch,cooking,1,0.2,,4809815,0.2,-37,2022-10-29T21:03:23.570609
+Play a video game,recreational,1,0.0,,5534113,0.0,-66,2022-10-29T21:03:23.595857
+Bake something you've never tried before,cooking,1,0.4,,5665663,0.3,32,2022-10-29T21:03:29.228691
+Go for a run,recreational,1,0.0,,6852505,0.9,19,2022-10-29T21:03:29.217755
+Take a bubble bath,relaxation,1,0.15,,2581372,0.1,-14,2022-10-29T21:03:29.199667
+Have a football scrimmage with some friends,social,8,0.0,,1638604,0.2,13,2022-10-29T21:03:29.210694
+Pull a harmless prank on one of your friends,social,1,0.1,,1288934,0.2,18,2022-10-29T21:03:29.190997
+Have a jam session with your friends,music,5,0.1,,2715253,0.3,-15,2022-10-29T21:03:29.151281
+Learn a new recipe,cooking,1,0.0,,6553978,0.05,-53,2022-10-29T21:03:29.219956
+Learn a new programming language,education,1,0.1,,5881028,0.25,32,2022-10-29T21:03:29.184062
+Plan a vacation you've always wanted to take,relaxation,1,0.0,,7265395,0.05,62,2022-10-29T21:03:29.203001

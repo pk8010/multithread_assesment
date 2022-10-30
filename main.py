@@ -6,6 +6,6 @@ from utils.network import Network
 if __name__ == '__main__':
     repository = Repository()
     network = Network()
-    sensors = BaseSensor(network,3)
+    sensors = BaseSensor(network, 9)
     logging = Logging(repository, network, sensors)
     logging.run()
