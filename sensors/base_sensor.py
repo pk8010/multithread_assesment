@@ -8,7 +8,7 @@ class BaseSensor(Exception):
     def __init__(self, network: Network, NumofSensors = 5):
         # pass
         # self.Network()
-        self.network = network        
+        self.network = network
 
                 
         if NumofSensors <= 9:            
@@ -35,7 +35,8 @@ class BaseSensor(Exception):
 
     def GetSensorMessageRandomly(self):
         self.HeaderResponse = []
-        self.Response = []        
+        self.Response = []   
+        
         ThreadResult = []
         elapsed_time = time.time()        
         
@@ -51,7 +52,7 @@ class BaseSensor(Exception):
         #Threading Execution, We have modified number of worker dynamically as per num of sensor                        
         with ThreadPoolExecutor(max_workers=(self.NumofSensors)) as executor:
             for topic in self.Topics:
-                result = executor.submit(self.network._MakeRequest, topic)
+                result = executor.submit(self.network.MakeRequest, topic)
                 ThreadResult.append(result)
                 
         for thread in ThreadResult:

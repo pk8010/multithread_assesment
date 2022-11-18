@@ -6,7 +6,7 @@ from sensors.base_sensor import BaseSensor
 import time
 
 import logging
-import pandas as pd
+
 
 class Logging(threading.Thread):
     def __init__(self, repository: Repository, network: Network, sensor: BaseSensor):

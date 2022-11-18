@@ -23,7 +23,7 @@ class Network:
         
         
         
-        
+        # We can switch to any API and the rest of the code will be same as it is.
         self.Topics = ["education", "recreational", "social", "diy", "charity", "cooking", 
                        "relaxation", "music", "busywork"]        
         self.url = "https://www.boredapi.com/api/activity?type="
@@ -32,7 +32,7 @@ class Network:
     # We have made this function protected to avoid accessing it from outside in suggesation.
     
     # def _MakeRequest(self, Topic ='family'):
-    def _MakeRequest(self, Topic ='education'):
+    def MakeRequest(self, Topic ='education'):
         """
 
         Parameters

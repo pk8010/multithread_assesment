@@ -1,4 +1,4 @@
-from service.model.message import Message
+# from service.model.message import Message
 import pandas as pd
 
 class Repository:
